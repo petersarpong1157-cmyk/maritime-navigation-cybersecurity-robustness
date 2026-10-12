@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: 'If you use this repository, please cite it.'
+type: software
+title: 'When Low False-Alarm Rates Fail to Generalize: Alarm Persistence and Sensor-Noise Distribution Shift in Simulated Maritime Navigation Cybersecurity'
+authors:
+  - family-names: Sarpong
+    given-names: Peter
+    affiliation: Independent Researcher
+abstract: >-
+  Reproducible R simulation study of alarm persistence,
+  sensor-noise distribution shift, and an independent
+  MARSIM GPS-spoofing simulation benchmark.
+version: 1.0.0
+date-released: '2026-10-12'
+keywords:
+  - maritime cybersecurity
+  - navigation integrity
+  - anomaly detection
+  - alarm persistence
+  - sensor noise
+  - distribution shift
+  - GPS spoofing
+  - reproducible research
