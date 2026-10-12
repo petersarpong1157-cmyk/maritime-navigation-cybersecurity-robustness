@@ -1,4 +1,4 @@
-# Maritime Navigation Cybersecurity: Alarm Persistence and Noise Shift
+﻿# Maritime Navigation Cybersecurity: Alarm Persistence and Noise Shift
 
 Reproducible R-based simulation study of alarm persistence,
 sensor-noise distribution shift, and GPS spoofing detection
@@ -98,3 +98,4 @@ The external test contains six parameter groups,
 limiting statistical generalization.
 The MARSIM bootstrap intervals are conditional on
 the selected simulation scenarios and parameter groups.
+
