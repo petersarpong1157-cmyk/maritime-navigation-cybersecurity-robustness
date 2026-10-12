@@ -77,18 +77,28 @@ primary multi-sensor detector.
 ## MARSIM dataset
 
 The original MARSIM dataset is available at:
-https://zenodo.org/records/8202936
+https://doi.org/10.5281/zenodo.8202936
 
-Only selected benchmark metadata and processed analysis
-data are included here. Original PCAP files are not included.
+This repository contains the benchmark selection manifest,
+frozen detector configurations, numerical results, and
+bootstrap summaries.
 
-The benchmark selection uses disjoint parameter groups
-for training, validation and held-out testing.
+The original PCAP recordings and processed MARSIM
+observation-level dataset are not redistributed.
+
+Training, validation, and test recordings use disjoint
+parameter groups.
 
 ## Citation and archival status
 
-A Zenodo DOI will be added after the GitHub repository
-has been finalized and a versioned release archived.
+Author: Peter Sarpong, Independent Researcher.
+
+Published research archive: v3.5.8
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.23325143
+
+GitHub release:
+https://github.com/petersarpong1157-cmyk/maritime-navigation-cybersecurity-robustness/releases/tag/v3.5.8
 
 ## Limitations
 
@@ -98,4 +108,5 @@ The external test contains six parameter groups,
 limiting statistical generalization.
 The MARSIM bootstrap intervals are conditional on
 the selected simulation scenarios and parameter groups.
+
 
